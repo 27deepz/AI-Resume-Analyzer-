@@ -1,3 +1,4 @@
-vs code 
-python file 
-api key
+streamlit
+google-genai
+pypdf
+python-dotenv

@@ -1,5 +1,5 @@
 import streamlit as st
-from google import genai  # <-- FIXED LINE 2: Clean import for modern SDK
+from google import genai
 import pypdf as pdf
 import os
 from dotenv import load_dotenv
